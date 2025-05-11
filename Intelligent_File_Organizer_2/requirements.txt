@@ -1,0 +1,30 @@
+# Core
+watchdog==3.0.0
+schedule==1.2.0
+
+# AI/ML
+tensorflow==2.12.0
+scikit-learn==1.3.0
+pandas==2.0.3
+numpy==1.24.3
+nltk==3.8.1
+opencv-python==4.8.0.74
+pillow==10.0.0
+
+# GUI
+PyQt5==5.15.9
+pyqtgraph==0.13.3
+
+# Database
+sqlite3
+peewee==3.16.2
+
+# API
+flask==2.3.2
+flask-restful==0.3.10
+flask-cors==3.0.10
+
+# Utils
+python-magic==0.4.27
+colorlog==6.7.0
+pywin32==306  # Windows only

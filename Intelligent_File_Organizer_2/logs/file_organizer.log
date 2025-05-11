@@ -1,0 +1,112 @@
+2025-05-10 22:29:06,548 - src.core.scheduler - INFO - Scheduler started
+2025-05-10 22:29:16,544 - src.core.organizer - INFO - Loaded configuration from config.json
+2025-05-10 22:29:17,491 - src.core.organizer - INFO - Starting organization of C:/Users/tanma/Downloads with mode: type
+2025-05-10 22:29:17,922 - src.core.organizer - INFO - Organization complete. Stats: {'moved': 86, 'duplicates': 0, 'errors': 0, 'preserved': 0}
+2025-05-10 22:29:58,589 - src.core.organizer - INFO - Loaded configuration from config.json
+2025-05-10 22:29:58,944 - src.core.organizer - INFO - Starting organization of C:/Users/tanma/Downloads with mode: date
+2025-05-10 22:29:58,960 - src.core.organizer - INFO - Organization complete. Stats: {'moved': 0, 'duplicates': 0, 'errors': 0, 'preserved': 0}
+2025-05-10 22:30:05,864 - src.core.organizer - INFO - Loaded configuration from config.json
+2025-05-10 22:30:06,235 - src.core.organizer - INFO - Starting organization of C:/Users/tanma/Downloads with mode: date
+2025-05-10 22:30:06,235 - src.core.organizer - INFO - Organization complete. Stats: {'moved': 0, 'duplicates': 0, 'errors': 0, 'preserved': 88}
+2025-05-10 22:30:22,096 - src.core.organizer - INFO - Loaded configuration from config.json
+2025-05-10 22:30:22,455 - src.core.organizer - INFO - Starting organization of C:/Users/tanma/Downloads with mode: size
+2025-05-10 22:30:22,455 - src.core.organizer - INFO - Organization complete. Stats: {'moved': 0, 'duplicates': 0, 'errors': 0, 'preserved': 88}
+2025-05-10 22:30:25,189 - src.core.organizer - INFO - Loaded configuration from config.json
+2025-05-10 22:30:25,677 - src.core.organizer - INFO - Starting organization of C:/Users/tanma/Downloads with mode: size
+2025-05-10 22:30:25,693 - src.core.organizer - INFO - Organization complete. Stats: {'moved': 0, 'duplicates': 0, 'errors': 0, 'preserved': 88}
+2025-05-10 22:30:31,220 - src.core.organizer - INFO - Loaded configuration from config.json
+2025-05-10 22:30:31,595 - src.core.organizer - INFO - Starting organization of C:/Users/tanma/Downloads with mode: type
+2025-05-10 22:30:31,595 - src.core.organizer - INFO - Organization complete. Stats: {'moved': 0, 'duplicates': 0, 'errors': 0, 'preserved': 88}
+2025-05-10 22:30:43,706 - src.core.organizer - INFO - Loaded configuration from config.json
+2025-05-10 22:30:44,068 - src.core.organizer - INFO - Starting organization of C:/Users/tanma/Downloads with mode: type
+2025-05-10 22:30:44,112 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\audio\limitless_original_final.mp3
+2025-05-10 22:30:44,149 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\audio\LIMITLESS_TANMAY.mp3
+2025-05-10 22:30:44,196 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\audio\Limitless_tanmay_version_final.mp3
+2025-05-10 22:30:44,217 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\audio\New Project.mp3
+2025-05-10 22:30:44,230 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\audio\Tang mujhko.m4a
+2025-05-10 22:30:44,246 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\21BDS0347_SIGNED REPORT.docx
+2025-05-10 22:30:44,251 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\3-Month LeetCode DSA Mastery Roadmap.docx
+2025-05-10 22:30:44,285 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Admit card.pdf
+2025-05-10 22:30:44,302 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Admit University of washington.pdf
+2025-05-10 22:30:44,327 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Appointment Confirmation  · Customer Self-Service.pdf
+2025-05-10 22:30:44,453 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\AWS Certified Cloud Practitioner Slides v38.pdf
+2025-05-10 22:30:44,545 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Circular on Industrail Internship Winter 2024-25 (1).pdf
+2025-05-10 22:30:44,556 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\columbia fee related.pdf
+2025-05-10 22:30:44,557 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Columbia Linkedin.docx
+2025-05-10 22:30:44,564 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Columbia Networking Tracker & Relationship Management System.pdf
+2025-05-10 22:30:44,577 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Columbia University Contact Rankings & Strategic Networking Plan.pdf
+2025-05-10 22:30:44,602 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\CopyrightReceipt.pdf
+2025-05-10 22:30:44,632 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Development_Tools_Tables.docx
+2025-05-10 22:30:44,654 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\DpAccountSummaryUX515-03-2025_13_41_11_.pdf
+2025-05-10 22:30:44,660 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\EducationUSA Sessions for Admitted Students.pdf
+2025-05-10 22:30:44,695 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\EmiratesETicket.pdf
+2025-05-10 22:30:44,712 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\EmiratesTicket1.pdf
+2025-05-10 22:30:44,732 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Excel-using-AI-Notes.pdf
+2025-05-10 22:30:44,743 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Final_tanmay_Resume.pdf
+2025-05-10 22:30:44,760 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Free API.pdf
+2025-05-10 22:30:44,777 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\FundingDocumentsChecklist (1).pdf
+2025-05-10 22:30:44,777 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\FundingDocumentsChecklist.pdf
+2025-05-10 22:30:44,815 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\graduatedegreeselection_updated_12_21_2022_form (1).pdf
+2025-05-10 22:30:44,835 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Guide to Careers.PDF
+2025-05-10 22:30:44,837 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\How to fill DS-160 form.docx
+2025-05-10 22:30:44,843 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Immunization Files.pdf
+2025-05-10 22:30:44,876 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\ML_anrew_notes.pdf
+2025-05-10 22:30:44,883 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\neu payment reciept.pdf
+2025-05-10 22:30:44,893 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Parent_Photo.pdf
+2025-05-10 22:30:44,909 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Powerful Visuals-1-14.pdf
+2025-05-10 22:30:44,915 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Powerful Visuals.pdf
+2025-05-10 22:30:44,949 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Prompt-Writing-and-AI-Tools-Notes.pdf
+2025-05-10 22:30:44,976 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Remote hiring.pdf
+2025-05-10 22:30:45,043 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Research-work-using-AI-Live-Notes.pdf
+2025-05-10 22:30:45,064 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\scan_0001.pdf
+2025-05-10 22:30:45,099 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\scan_0001_merged.pdf
+2025-05-10 22:30:45,117 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\scan_0002.pdf
+2025-05-10 22:30:45,129 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\SCPL OFFER LETTER.pdf
+2025-05-10 22:30:45,162 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\SQL Commands with cheat sheet.pdf
+2025-05-10 22:30:45,166 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\StudentGradeHistory_21BDS0347.pdf
+2025-05-10 22:30:45,200 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\SVSS Guidelines.pdf
+2025-05-10 22:30:45,219 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Tanmay Agarwal_Platform Machine Learning Intern_20250416.pdf
+2025-05-10 22:30:45,238 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\tanmay AI.pdf
+2025-05-10 22:30:45,261 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\tanmay resume.pdf
+2025-05-10 22:30:45,276 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\tanmay.pdf
+2025-05-10 22:30:45,276 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Tanmay_Agarwal_Software_Developer_Resume.pdf.pdf
+2025-05-10 22:30:45,299 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Tanmay_Resume.pdf
+2025-05-10 22:30:45,316 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Tanmay_Resume_Final.pdf
+2025-05-10 22:30:45,360 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Threejs-CheatSheet.pdf
+2025-05-10 22:30:45,382 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\Top Columbia University Contact Profiles.pdf
+2025-05-10 22:30:45,408 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\UI Technologies .pdf
+2025-05-10 22:30:45,415 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\documents\XYZ23664869741.pdf
+2025-05-10 22:30:45,455 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\executables\OfficeSetup.exe
+2025-05-10 22:30:45,582 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\executables\python-3.13.3-amd64.exe
+2025-05-10 22:30:45,592 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\100 day streak message.jpg
+2025-05-10 22:30:45,595 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\30 day streak checkmarks.jpg
+2025-05-10 22:30:45,595 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\circle habit tracker.jpg
+2025-05-10 22:30:45,597 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\cute-cat-portrait-hand-drawn-260nw-2251627581.webp
+2025-05-10 22:30:45,605 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\DALL·E 2023-10-25 09.57.53 - Cartoon depicting a humorous situation in a dense jungle. A group of animals, including a parrot, monkey, and deer, are gathered around a big egg. As .png
+2025-05-10 22:30:45,617 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\DALL·E 2023-10-25 09.59.59 - Pencil drawing capturing a moonlit jungle ambiance. A baby tiger, its eyes and fur sketched with precision, is depicted coming out of a beautifully de.png
+2025-05-10 22:30:45,625 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\DALL·E 2023-10-25 10.05.44 - Pencil sketch showcasing a serene forest environment where trees, with intricate details on their trunks and branches, hover effortlessly above the gr.png
+2025-05-10 22:30:45,633 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\DALL·E 2023-10-25 10.10.20 - Artistic sketch of a group of dragon butterflies resting on a flower. Each butterfly showcases the unique blend of ethereal butterfly wings and the ro.png
+2025-05-10 22:30:45,636 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\DALL·E 2023-10-25 10.12.29 - Pencil sketch illustrating a close-up view of a dewdrop fairy. The fairy is petite with delicate wings, residing within a dewdrop that glows like a sm.png
+2025-05-10 22:30:45,645 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\DALL·E 2023-10-25 10.29.10 - Drawing sketch of a close-up view of a cheetah taxi. The cheetah stands poised and ready, with a sleek seat harness fitted to its back. Passengers, we.png
+2025-05-10 22:30:45,653 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\DALL·E 2023-10-25 10.39.07 - Pencil sketch illustrating a surreal scene where graceful dolphins with feathered wings soar above a forest canopy, their tails leaving behind a trail.png
+2025-05-10 22:30:45,666 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\DALL·E 2025-03-29 09.16.05 - A modern and sleek logo for 'TLancers,' a freelancing, web design, and web development business. The design should feature a stylized 'T' or 'TL' with.webp
+2025-05-10 22:30:45,668 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\WhatsApp Image 2025-05-02 at 13.39.24_195282a9.jpg
+2025-05-10 22:30:45,670 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\images\WhatsApp Image 2025-05-02 at 13.39.24_c6618ce7.jpg
+2025-05-10 22:30:45,697 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\md_files\columbia-ms-cs-after-arrival-checklist.md
+2025-05-10 22:30:45,733 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\md_files\contact-table.md
+2025-05-10 22:30:45,762 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\md_files\internship-report.md
+2025-05-10 22:30:45,798 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\md_files\leetcode-dsa-roadmap.md
+2025-05-10 22:30:45,811 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\md_files\updated-university-data.md
+2025-05-10 22:30:45,829 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\presentations\21BDS0347_POSTER.pptx
+2025-05-10 22:30:45,834 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\spreadsheets\Book1.xlsx
+2025-05-10 22:30:45,839 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\spreadsheets\Columbia Graduate Housing 2025 (Responses) (1).xlsx
+2025-05-10 22:30:45,840 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\spreadsheets\Columbia Graduate Housing 2025 (Responses).xlsx
+2025-05-10 22:30:45,851 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\spreadsheets\Tanmay_credentials.csv
+2025-05-10 22:30:45,955 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\videos\Gen-3 Alpha Turbo 1598155697, Cropped - 213webp, M 5.mp4
+2025-05-10 22:30:45,996 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\videos\LIMITLESS-TANMAY.mp4
+2025-05-10 22:30:46,017 - src.core.organizer - INFO - Exact duplicate found: C:/Users/tanma/Downloads\videos\Make_the_kiss_longer_and_more_in (1).mp4
+2025-05-10 22:30:46,023 - src.core.organizer - INFO - Organization complete. Stats: {'moved': 2, 'duplicates': 86, 'errors': 0, 'preserved': 0}
+2025-05-10 22:31:17,868 - src.core.organizer - INFO - Loaded configuration from config.json
+2025-05-10 22:31:18,219 - src.core.organizer - INFO - Starting organization of C:/Users/tanma/Downloads with mode: date
+2025-05-10 22:31:18,257 - src.core.organizer - INFO - Organization complete. Stats: {'moved': 2, 'duplicates': 0, 'errors': 0, 'preserved': 0}
+2025-05-10 22:31:20,594 - src.core.scheduler - INFO - Scheduler stopped

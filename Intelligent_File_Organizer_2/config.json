@@ -1,0 +1,39 @@
+{
+    "folders": {
+        "documents": [".pdf", ".docx", ".doc", ".txt", ".odt", ".rtf"],
+        "images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp"],
+        "videos": [".mp4", ".avi", ".mkv", ".mov", ".wmv", ".flv", ".webm"],
+        "audio": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".wma", ".m4a"],
+        "archives": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2"],
+        "code": [".py", ".js", ".html", ".css", ".cpp", ".java", ".c", ".h", ".php", ".rb", ".go"],
+        "spreadsheets": [".xlsx", ".xls", ".csv", ".ods"],
+        "presentations": [".pptx", ".ppt", ".odp"],
+        "ebooks": [".epub", ".mobi", ".azw3"],
+        "executables": [".exe", ".msi", ".deb", ".rpm", ".app"]
+    },
+    "rules": {
+        "use_ai_classification": false,
+        "use_content_analysis": false,
+        "min_duplicate_similarity": 0.85,
+        "cluster_similar_files": false,
+        "preserve_folder_structure": true,
+        "organization_mode": "type"
+    },
+    "size_categories": {
+        "small": {
+            "max_size_mb": 1,
+            "folder_name": "small_files"
+        },
+        "medium": {
+            "max_size_mb": 10,
+            "folder_name": "medium_files"
+        },
+        "large": {
+            "max_size_mb": 100,
+            "folder_name": "large_files"
+        },
+        "very_large": {
+            "folder_name": "very_large_files"
+        }
+    }
+}
