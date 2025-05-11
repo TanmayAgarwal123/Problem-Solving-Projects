@@ -1,5 +1,6 @@
 import sys
 import os
+import json
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
                            QHBoxLayout, QPushButton, QFileDialog, QTextEdit,
                            QTabWidget, QTableWidget, QTableWidgetItem, QHeaderView,
@@ -525,7 +526,6 @@ class FileOrganizerGUI(QMainWindow):
             self.last_run_label.setText(f"Last Run: {stats.get('last_run', 'Never')}")
             
             # Update type distribution chart
-            # Update type distribution chart
             self.type_chart.clear()
             categories = list(stats['by_category'].keys())
             values = [stats['by_category'][cat]['count'] for cat in categories]
@@ -559,7 +559,6 @@ class FileOrganizerGUI(QMainWindow):
             QMessageBox.warning(self, "Error", f"Failed to load analytics: {str(e)}")
             
     def load_file_mappings(self):
-        """Load default mappings"""
         mappings = {
             "documents": ".pdf, .docx, .doc, .txt, .odt, .rtf",
             "images": ".jpg, .jpeg, .png, .gif, .bmp, .svg",
@@ -577,20 +576,17 @@ class FileOrganizerGUI(QMainWindow):
             self.mapping_table.setItem(i, 1, QTableWidgetItem(extensions))
     
     def add_mapping_row(self):
-        """Add a new row to the mapping table"""
         row_count = self.mapping_table.rowCount()
         self.mapping_table.insertRow(row_count)
         self.mapping_table.setItem(row_count, 0, QTableWidgetItem("new_category"))
         self.mapping_table.setItem(row_count, 1, QTableWidgetItem(".ext"))
     
     def remove_mapping_row(self):
-        """Remove selected row from mapping table"""
         current_row = self.mapping_table.currentRow()
         if current_row >= 0:
             self.mapping_table.removeRow(current_row)
             
     def save_settings(self):
-        """Save settings to config file"""
         try:
             # Collect mappings from table
             mappings = {}
