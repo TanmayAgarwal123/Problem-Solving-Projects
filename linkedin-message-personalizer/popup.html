@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LinkedIn AI Message Personalizer</title>
+  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+</head>
+<body>
+  <div class="container">
+    <h1>LinkedIn AI Message Personalizer</h1>
+    
+    <div id="profile-data" class="section">
+      <h2>Profile Analysis</h2>
+      <div id="profile-details">
+        <p>Navigate to a LinkedIn profile to extract data.</p>
+      </div>
+    </div>
+    
+    <div class="section">
+      <h2>Message Template</h2>
+      <select id="template-select">
+        <option value="">Select a template...</option>
+      </select>
+      <button id="create-template">+ New Template</button>
+    </div>
+    
+    <div class="section">
+      <h2>AI Personalization</h2>
+      <div id="ai-suggestions" class="suggestions-box">
+        <p>AI insights will appear here...</p>
+      </div>
+      <textarea id="message-content" rows="6" placeholder="Your personalized message will appear here..."></textarea>
+      <div class="actions">
+        <button id="generate-message">Generate Message</button>
+        <button id="copy-message">Copy to Clipboard</button>
+        <button id="test-mode">Test Mode</button>
+      </div>
+    </div>
+    
+    <div class="footer">
+      <p class="ml-badge">Powered by Machine Learning</p>
+    </div>
+  </div>
+  
+  <script src="popup.js"></script>
+</body>
+</html>
